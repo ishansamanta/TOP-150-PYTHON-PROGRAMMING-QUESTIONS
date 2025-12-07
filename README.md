@@ -1,3 +1,9 @@
+
+
+![generated-image uu](https://github.com/user-attachments/assets/19b857d3-6c4d-472a-965a-f14e8b3b0b0b)
+
+
+
 Python is one of the most beginner-friendly programming languages, and it is widely used in many fields—web development, data science, automation, machine learning, and more. However, beginners often struggle to find clean and simple examples they can practice immediately.
 This book was created to solve that problem.
 It contains 150+ Python programs, covering topics such as:
